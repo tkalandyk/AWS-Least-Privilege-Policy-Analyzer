@@ -1,3 +1,6 @@
+
+<img width="1536" height="1024" alt="ChatGPT Image Feb 17, 2026, 08_16_46 PM" src="https://github.com/user-attachments/assets/a721a81a-031b-4d73-8644-f9aa2b2862c0" />
+
 # AWS Least Privilege Policy Analyzer
 
 ## Overview
