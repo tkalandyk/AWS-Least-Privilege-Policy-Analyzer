@@ -12,6 +12,12 @@ It scans IAM Users and Roles, identifies excessive permissions, assigns risk sco
 This project demonstrates how GRC engineering can move from manual access reviews and screenshots to automated, repeatable, evidence-driven security controls.
 
 ---
+## 🎥Click Below to Watch the Demo Video ⬇️
+
+https://vimeo.com/1165861764?share=copy&fl=sv&fe=ci
+<img width="1278" height="704" alt="image" src="https://github.com/user-attachments/assets/d6a9a3cf-310c-4247-ab49-d29a80c789ef" />
+
+
 
 ## Who This Is For
 
