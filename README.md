@@ -15,7 +15,8 @@ This project demonstrates how GRC engineering can move from manual access review
 ## 🎥Click Below to Watch the Demo Video ⬇️
 
 
-[![Watch the video](https://github.com/user-attachments/assets/b568aa2f-66ec-4952-b0b9-1d5d1613c4ad)](https://vimeo.com/1165861764)
+[![Watch the video](https://github.com/user-attachments/assets/b568aa2f-66ec-4952-b0b9-1d5d1613c4ad)](https://youtu.be/5Gvi2Gh4Onc)
+
 
 
 ## Who This Is For
