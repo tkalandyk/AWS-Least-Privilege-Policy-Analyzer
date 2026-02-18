@@ -144,17 +144,6 @@ Reports are stored locally by default and can be extended to centralized evidenc
 
 ---
 
-### Setup
-
-```bash
-git clone https://github.com/YOUR-REPO/aws-least-privilege.git
-cd aws-least-privilege
-
-python3 -m venv venv
-source venv/bin/activate
-
-pip install boto3
-```
 
 ### Usage
 ## Basic Run (default AWS credentials)
